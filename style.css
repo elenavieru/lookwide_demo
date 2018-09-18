@@ -1323,11 +1323,6 @@ body,
 
 /* Lists */
 
-.texto_curso ol.bck-ol1 li,
-.workspace ul li ol.bck-ol1 li,
-.cke_contents ol.bck-ol1 li {
-    background: #F7F9DF;
-}
 
 .texto_curso ol,
 .workspace ul li ol,
@@ -1371,13 +1366,13 @@ body,
 	   -moz-border-radius: 50%;
 	        border-radius: 50%;
 	background: none;
-	color: #D7DF21;
-	font-size: 2.3rem;
+	color: #3FC0F0;
 	text-align: right;
-	line-height: 2.4rem;
 	font-family: sans-serif;
 	width: 26px;
-        left: 2px;
+    left: 2px;
+    font-weight: 500;
+    font-size: 1.9rem;
 }
 
 .texto_curso ol.bck-ol2 li:before,
@@ -1387,9 +1382,10 @@ body,
     left: 0;
     width: 25px;
     text-align: right;
-    color: #D7DF21;
+    color: #333;
     font-family: sans-serif;
     font-weight: 500;
+    font-size: 1.6rem;
 }
 
 .texto_curso ul.bck-ul1 li:before,
