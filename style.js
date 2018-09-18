@@ -1,17 +1,17 @@
 (function (blink) {
 	'use strict';
 
-	var heyfriends_demoStyle = function () {
+	var lookwide_demoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	heyfriends_demoStyle.prototype = {
+	lookwide_demoStyle.prototype = {
 		//BK-15873 añadimos el estilo basic como parent para la herencia de los estilos del CKEditor
 		parent: blink.theme.styles.basic.prototype,
-		bodyClassName: 'content_type_clase_heyfriends_demo',
+		bodyClassName: 'content_type_clase_lookwide_demo',
 		ckEditorStyles: {
-			name: 'heyfriends_demo',
+			name: 'lookwide_demo',
 			styles: [
 
 				{ name: 'Título verde', element: 'h4', attributes: { 'class': 'bck-title1'} },
@@ -124,9 +124,9 @@
 		//BK-15873 Quitamos la funcion getEditorStyles para que la herede de basic
 	};
 
-	heyfriends_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), heyfriends_demoStyle.prototype);
+	lookwide_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), lookwide_demoStyle.prototype);
 
-	blink.theme.styles.heyfriends_demo = heyfriends_demoStyle;
+	blink.theme.styles.lookwide_demo = lookwide_demoStyle;
 
 })( blink );
 
