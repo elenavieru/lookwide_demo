@@ -45,13 +45,13 @@ body,
 #actividad .content .header {
     border-top: 0;
     border-bottom: none;
-    border: 5px solid #00ADE6;
-    background: #D7DF21;
-    text-align: center;
-    margin-left: 25%;
-    width: 50%;
+    border: 0;
+    background: #3FC0F0;
+    text-align: right;
+    margin-left: 0px;
+    width: 100%;
     margin-top: 15px;
-    padding: 5px;
+    padding: 15px;
 }
 
 #actividad .content .slide-concatenate .header {
@@ -641,13 +641,10 @@ body,
 #actividad .content .header .title h3 {
     margin: 0px;
     color: #fff;
-    font-size: 4.8rem;
-    font-weight: 700;
+    font-size: 4rem;
+    font-weight: 600;
     line-height: 6rem;
-    margin-left: -40px;
-    text-shadow: 1px 2px #999, 3px 0 #999, 0 1px #999;
-    -webkit-text-fill-color: #fff;
-    -webkit-text-stroke: 1px #333;
+    padding-right: 55px;
 }
 
 #actividad .content .ultima .header .title h3 {
@@ -1054,9 +1051,13 @@ body,
 }
 
 .bck-title1 {
-    color: #BED62F;
+    color: #fff;
     font-weight: 600;
-    font-size: 2.5rem;
+    background: #F1872E;
+    font-size: 2rem;
+    padding: 8px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 .bck-title2 {
     color: #FFCB08;
