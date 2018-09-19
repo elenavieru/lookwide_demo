@@ -1588,6 +1588,13 @@ body,
     padding-left: 80px;
 }
 
+/*Énfasis*/
+
+.énfasis {
+    color: #F1872E;
+    font-weight: 600;
+}
+
 
 /* Icons */
 
