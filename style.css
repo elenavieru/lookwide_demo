@@ -1551,6 +1551,18 @@ body,
 	padding: 15px;
 }
 
+.box-4:before{
+	content: " ";
+    left: 92%;
+    position: absolute;
+    background: url(imagenes/icono_caja4.png);
+    padding: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -15px;
+    z-index: 999;
+
+}
 
 .box-7 {
     height: 48px;
