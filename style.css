@@ -1507,6 +1507,11 @@ body,
 	padding: 10px 10px 10px 70px;
 }
 
+.box-2 .bck-title {
+	color: #A23D97;
+	font-weight: bold;
+}
+
 .box-title,
 .box-back-title {
 	position: absolute;
@@ -1528,18 +1533,7 @@ body,
 	mix-blend-mode: multiply;
 }
 
-.box-title span,
-.box-back-title span {
-	position: relative;
-	float: right;
-	display: inline-block;
-}
 
-
-.box-2 .bck-title {
-	color: #A23D97;
-	font-weight: bold;
-}
 
 .box-3,
 .box-4,
