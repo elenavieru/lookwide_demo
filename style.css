@@ -1564,80 +1564,9 @@ body,
 
 }
 
-.box-7 {
-    height: 48px;
-	-webkit-border-radius: 20px;
-	   -moz-border-radius: 20px;
-	        border-radius: 20px;
-	background: #CAE5C0;
-    padding: 5px 20px;
-	color: #4CB848;
-	font-weight: bolder;
-}
-
-.box-7 .box-title {
-	top: 0;
-	right: 0;
-    width: 48px;
-    height: 48px;
-	overflow: hidden;
-	-webkit-border-radius: 50%;
-	   -moz-border-radius: 50%;
-	        border-radius: 50%;
-	background: #4CB848;
-    padding-top: 2px;
-	color: #fff;
-    font-size: 4.7rem;
-	text-align: center;
-	text-shadow: 1px 1px #399339,
-				 2px 2px #399339,
-				 3px 3px #399339,
-				 4px 4px #399339,
-				 5px 5px #399339,
-				 6px 6px #399339,
-				 7px 7px #399339,
-				 8px 8px #399339,
-				 9px 9px #399339,
-				 10px 10px #399339,
-				 11px 11px #399339,
-				 12px 12px #399339,
-				 13px 13px #399339,
-				 14px 14px #399339,
-				 15px 15px #399339,
-				 16px 16px #399339,
-				 17px 17px #399339,
-				 18px 18px #399339,
-				 19px 19px #399339,
-				 20px 20px #399339,
-				 21px 21px #399339,
-				 22px 22px #399339,
-				 23px 23px #399339,
-				 24px 24px #399339,
-				 25px 25px #399339,
-				 26px 26px #399339,
-				 27px 27px #399339,
-				 28px 28px #399339,
-				 29px 29px #399339,
-				 30px 30px #399339,
-				 31px 31px #399339,
-				 32px 32px #399339,
-				 33px 33px #399339,
-				 34px 34px #399339,
-				 35px 35px #399339,
-				 36px 36px #399339,
-				 37px 37px #399339,
-				 38px 38px #399339,
-				 39px 39px #399339,
-				 40px 40px #399339;
-	line-height: 4.0rem;
-}
-
-.box-7 .bck-content {
-	height: 100%;
-}
-
-.texto_curso .box-7 p {
-	line-height: 4.0rem !important;
+.box-5{
+	background: #D9EFFD;
+	padding: 15px;
 }
 
 /* Icons */
