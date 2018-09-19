@@ -25,6 +25,8 @@
 
 				{ name: 'Ejemplo', element: 'span', attributes: { 'class': 'bck-example' }},
 
+				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'énfasis' }},
+
 				{ name: 'Lista ordenada1', element: 'ol', attributes: { 'class': 'bck-ol1' } },
 				{ name: 'Lista ordenada2', element: 'ol', attributes: { 'class': 'bck-ol2' } },
 				{ name: 'Lista ordenada3', element: 'ol', attributes: { 'class': 'bck-ol3' } },
