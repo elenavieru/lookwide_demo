@@ -1509,6 +1509,18 @@ body,
     padding: 5px 15px;
 }
 
+.box-2 .bck-title:before {
+    content: " ";
+    left: 86%;
+    position: absolute;
+    background: url(/useruploads/r/a/102881446/activity_other_imported/icono_caja2.png);
+    padding: 15px 56px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -1px;
+    z-index: 999;
+}
+
 
 .box-6 {
 	background: #FFE9AF;
