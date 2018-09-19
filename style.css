@@ -1125,11 +1125,11 @@ body,
 }
 
 
-.bck-example {
-	color: #4BB5E5;
-	font-family: 'andy_bold';
-	font-size: 2.2rem;
-	font-weight: 600;
+.bck-fondo1 {
+    background: #BB412C;
+    padding: 4px 5px 4px 7px;
+    color: #fff;
+    font-weight: 600
 }
 
 /* Navigators */
@@ -1626,7 +1626,6 @@ body,
     z-index: 999;
 
 }
-
 
 
 
