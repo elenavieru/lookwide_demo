@@ -39,6 +39,8 @@
 
 				{ name: 'Caja1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-1' } },
 				{ name: 'Caja2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-2' } },
+				{ name: 'Caja3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-3' } },
+				{ name: 'Caja4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-4' } },
 
 
 				{ name: 'Icono Escuchar', element: 'span', attributes: { 'class': 'icon icon-escuchar' } },
