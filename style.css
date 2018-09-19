@@ -1574,15 +1574,15 @@ body,
 
 .box-5:after {
     content: " ";
-    left: 0;
+    left: 10px;
     position: absolute;
     background: url(imagenes/icono_caja5.png);
-    padding: 29px;
+    padding: 30px;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: -40px;
-    z-index: 999;
-}
+    top: 5px;
+    z-index: 100;
+ }
 
 .box-5 .bck-content {
     padding-left: 80px;
