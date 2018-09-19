@@ -1572,6 +1572,20 @@ body,
     border: 3px solid #3FC0F0;
 }
 
+.box-5:after{
+	content: " ";
+    left: 92%;
+    position: absolute;
+    background: url(imagenes/icono_caja5.png);
+    padding: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -15px;
+    z-index: 999;
+}
+
+
+
 /* Icons */
 
 #actividad .player.audio {
