@@ -1507,23 +1507,13 @@ body,
 	padding: 10px 10px 10px 70px;
 }
 
-.box-2 .bck-title {
-	color: #A23D97;
-	font-weight: bold;
-}
+
 
 .box-title,
 .box-back-title {
 	position: absolute;
 }
 
-.box-2 .box-title,
-.box-2 .box-back-title {
-	top: -15px;
-	left: -25px;
-	width: 80px;
-	height: 120px;
-}
 
 .box-title {
 	z-index: 5;
