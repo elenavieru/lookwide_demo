@@ -1535,13 +1535,13 @@ body,
 
 .box-3 .bck-title:before {
     content: " ";
-    left: 86%;
+    left: 92%;
     position: absolute;
     background: url(imagenes/icono_caja3.png);
-    padding: 15px 56px;
+    padding: 40px;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: -1px;
+    margin-top: -15px;
     z-index: 999;
 }
 
