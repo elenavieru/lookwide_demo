@@ -23,7 +23,7 @@
 				{ name: 'Título Cool', element: 'h4', attributes: { 'class': 'bck-title7'} },
 				{ name: 'Título Project', element: 'h4', attributes: { 'class': 'bck-title8'} },
 
-				{ name: 'Ejemplo', element: 'span', attributes: { 'class': 'bck-example' }},
+				{ name: 'Fondo Marrón', element: 'span', attributes: { 'class': 'bck-fondo1' }},
 
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'énfasis' }},
 
