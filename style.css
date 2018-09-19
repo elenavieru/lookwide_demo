@@ -1584,6 +1584,10 @@ body,
     z-index: 999;
 }
 
+.box-5 .bck-content {
+    padding-left: 80px;
+}
+
 
 /* Icons */
 
