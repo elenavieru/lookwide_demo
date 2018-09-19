@@ -1513,13 +1513,38 @@ body,
     content: " ";
     left: 86%;
     position: absolute;
-    background: url(/useruploads/r/a/102881446/activity_other_imported/icono_caja2.png);
+    background: url(imagenes/icono_caja2.png);
     padding: 15px 56px;
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: -1px;
     z-index: 999;
 }
+
+.box-3 .bck-content{
+    background: #F4F6F7;
+    padding: 15px;	
+}
+
+.box-3 .bck-title{
+	background: #7C6EB0;
+    color: #fff;
+    font-weight: 700;
+    padding: 5px 15px;
+}
+
+.box-3 .bck-title:before {
+    content: " ";
+    left: 86%;
+    position: absolute;
+    background: url(imagenes/icono_caja3.png);
+    padding: 15px 56px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -1px;
+    z-index: 999;
+}
+
 
 
 .box-6 {
