@@ -1453,7 +1453,6 @@ body,
 	border: none;
 	padding: 5px 8px;
 	border: 1px solid #999999cc;
-	background: #E9E7DE;
 }
 
 .bck-table td.bck-td,
@@ -1469,6 +1468,11 @@ body,
 .bck-td2 {
 	background: #3FC0F0;
 	color: #fff;
+}
+
+.bck-table .bck-table-colores{
+	background: #E9E7DE;
+
 }
 
 /* Boxes */
