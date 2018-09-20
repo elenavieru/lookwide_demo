@@ -1463,14 +1463,21 @@ body,
 table.bck-table.bck-table-colores .bck-td1 {
 	background-color: #F1872E;
 	color: #fff;
+	border-color: #F1872E;
+	font-weight: 600;
+
 }
 table.bck-table.bck-table-colores .bck-td2 {
 	background-color: #3FC0F0;
 	color: #fff;
+	border-color: #3FC0F0;
 }
 
 table.bck-table.bck-table-colores {
 	background: #E9E7DE;
+}
+
+table.bck-table.bck-table-colores td {
     border: 1px solid #999999cc;
 }
 
