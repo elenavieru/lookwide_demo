@@ -1473,7 +1473,7 @@ body,
 	color: #fff;
 }
 
-.bck-table.bck-table-colores td {
+.bck-table-colores {
     border: 1px solid #999999cc;
     background: #E9E7DE;
 }
