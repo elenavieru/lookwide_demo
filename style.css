@@ -1435,12 +1435,7 @@ body,
 /* Tables */
 
 .bck-table {
-	border-collapse: separate;
-	border: 2px solid #4BB5E5;
-	-webkit-border-radius: 15px;
-	   -moz-border-radius: 15px;
-	        border-radius: 15px;
-	background: #4BB5E5;
+
 }
 
 .bck-table-borderless,
@@ -1469,40 +1464,18 @@ body,
 	color: #fff;
 }
 
-.bck-table td {
-	background: #fff;
+.bck-table td1 {
+	background: #F1872E;
+	color: #fff;
+}
+.bck-table td2 {
+	background: #3FC0F0;
+	color: #fff;
 }
 
-.fondo .bck-table td {
-	background: #F5F8D5;
-}
-
-.bck-table tbody tr:first-child td:first-child {
-	-webkit-border-top-left-radius: 15px;
-	   -moz-border-radius-topleft: 15px;
-	        border-top-left-radius: 15px;
-}
-
-.bck-table tbody tr:first-child td:last-child {
-	-webkit-border-top-right-radius: 15px;
-	   -moz-border-radius-topright: 15px;
-	        border-top-right-radius: 15px;
-}
-
-.bck-table tr:last-of-type td:first-child {
-	-webkit-border-bottom-left-radius: 15px;
-	   -moz-border-radius-bottomleft: 15px;
-	        border-bottom-left-radius: 15px;
-}
-
-.bck-table tr:last-of-type td:last-child {
-	-webkit-border-bottom-right-radius: 15px;
-	   -moz-border-radius-bottomright: 15px;
-	        border-bottom-right-radius: 15px;
-}
-
-.bck-table.bck-table-bordered td {
-	border: 1px solid #4BB5E5;
+.bck-table.bck-table-colores td {
+    border: 1px solid #999999cc;
+    background: #E9E7DE;
 }
 
 /* Boxes */
