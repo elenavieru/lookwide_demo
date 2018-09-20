@@ -30,6 +30,7 @@
 				{ name: 'Lista ordenada1', element: 'ol', attributes: { 'class': 'bck-ol1' } },
 				{ name: 'Lista ordenada2', element: 'ol', attributes: { 'class': 'bck-ol2' } },
 				{ name: 'Lista ordenada3', element: 'ol', attributes: { 'class': 'bck-ol3' } },
+				{ name: 'Lista ordenada4', element: 'ol', attributes: { 'class': 'bck-ol4' } },
 
 				{ name: 'Lista desordenada', element: 'ul', attributes: { 'class': 'bck-ul1' } },
 				{ name: 'Lista desordenada2', element: 'ul', attributes: { 'class': 'bck-ul2' } },
