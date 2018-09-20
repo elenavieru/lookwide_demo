@@ -1060,9 +1060,14 @@ body,
     border-bottom-left-radius: 20px;
 }
 .bck-title2 {
-    color: #FFCB08;
+    color: #FFF;
     font-weight: 600;
     font-size: 2.5rem;
+    background: #F1872E;
+    padding: 3px;
+    text-align: center;
+    width: 30%;
+    border-bottom: 3px solid #63C2C6;
 
 }
 .bck-title3 {
