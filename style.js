@@ -44,24 +44,6 @@
 				{ name: 'Caja6', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-6' } },
 
 
-
-				{ name: 'Icono Escuchar', element: 'span', attributes: { 'class': 'icon icon-escuchar' } },
-				{ name: 'Icono Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
-				{ name: 'Icono Leer', element: 'span', attributes: { 'class': 'icon icon-leer' } },
-				{ name: 'Icono Travieso', element: 'span', attributes: { 'class': 'icon icon-travieso' } },
-				{ name: 'Icono Check', element: 'span', attributes: { 'class': 'icon icon-check' } },
-				{ name: 'Icono Conversación', element: 'span', attributes: { 'class': 'icon icon-conversacion' } },
-				{ name: 'Icono A', element: 'span', attributes: { 'class': 'icon icon-A' } },
-				{ name: 'Icono 2', element: 'span', attributes: { 'class': 'icon icon-2' } },
-				{ name: 'Icono Círculo', element: 'span', attributes: { 'class': 'icon icon-circulo' } },
-				{ name: 'Icono Question', element: 'span', attributes: { 'class': 'icon icon-question' } },
-				{ name: 'Icono Recortar', element: 'span', attributes: { 'class': 'icon icon-recortar' } },
-				{ name: 'Icono Pegar', element: 'span', attributes: { 'class': 'icon icon-pegar' } },
-				{ name: 'Icono Unir Lápiz', element: 'span', attributes: { 'class': 'icon icon-unir' } },
-				{ name: 'Icono Actuar', element: 'span', attributes: { 'class': 'icon icon-actuar' } },
-				{ name: 'Icono Dibujar', element: 'span', attributes: { 'class': 'icon icon-dibujar' } },
-				{ name: 'Icono Cantar', element: 'span', attributes: { 'class': 'icon icon-cantar' } }
-
 			]
 		},
 
