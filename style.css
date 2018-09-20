@@ -1323,6 +1323,14 @@ body,
 
 /* Lists */
 
+.texto_curso ol.bck-ol3 li:before, .workspace ul li ol.bck-ol3 li:before, .cke_contents ol.bck-ol3 li:before{
+    content: counter(bck-li-counter, lower-alpha);
+    color: #3FC0F0;
+    font-weight: 600;
+    left: 12px;
+    font-size: 2rem;
+}
+
 
 
 
@@ -1344,7 +1352,6 @@ body,
 	padding-left: 35px;
     padding-bottom: 0px;
     padding-top: 6px;
-    font-weight: 600;
 }
 
 .texto_curso ol li:before,
@@ -1357,7 +1364,6 @@ body,
 	width: 24px;
 	margin-right: 5px;
     content: counter(bck-li-counter);
-    font-weight: bold;
 }
 
 .texto_curso ol.bck-ol1 li:before,
@@ -1373,7 +1379,7 @@ body,
 	font-family: sans-serif;
 	width: 26px;
     left: 2px;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 1.9rem;
 }
 
