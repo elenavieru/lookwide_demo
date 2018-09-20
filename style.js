@@ -38,7 +38,8 @@
 				{ name: 'Tabla sin bordes', element: 'table', attributes: { 'class': 'bck-table bck-table-borderless' } },
 				{ name: 'Tabla normal', element: 'table', attributes: { 'class': 'bck-table bck-table-normal' } },
 				{ name: 'Tabla borde azul', element: 'table', attributes: { 'class': 'bck-table bck-table-bordered' } },
-				{ name: 'Celda azul', element: 'td', attributes: { 'class': 'bck-td' } },
+				{ name: 'Celda naranja', element: 'td', attributes: { 'class': 'bck-td' } },
+				{ name: 'Celda azul', element: 'td', attributes: { 'class': 'bck-td1' } },
 
 				{ name: 'Caja1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-1' } },
 				{ name: 'Caja2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'box-2' } },
