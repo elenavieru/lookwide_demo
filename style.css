@@ -1452,7 +1452,6 @@ body,
 	height: 30px;
 	border: none;
 	padding: 5px 8px;
-	border: 1px solid #999999cc;
 }
 
 .bck-table td.bck-td,
@@ -1461,19 +1460,20 @@ body,
 	color: #fff;
 }
 
-.bck-td1 {
+table.bck-table.bck-table-colores .bck-td1 {
 	background-color: #F1872E;
 	color: #fff;
 }
-.bck-td2 {
+table.bck-table.bck-table-colores .bck-td2 {
 	background-color: #3FC0F0;
 	color: #fff;
 }
 
-.bck-table .bck-table-colores{
+table.bck-table.bck-table-colores {
 	background: #E9E7DE;
-
+    border: 1px solid #999999cc;
 }
+
 
 /* Boxes */
 
