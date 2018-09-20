@@ -14,14 +14,9 @@
 			name: 'lookwide_demo',
 			styles: [
 
-				{ name: 'Título verde', element: 'h4', attributes: { 'class': 'bck-title1'} },
-				{ name: 'Título amarillo', element: 'h4', attributes: { 'class': 'bck-title2'} },
-				{ name: 'Título azul', element: 'h4', attributes: { 'class': 'bck-title3'} },
-				{ name: 'Título guess', element: 'h4', attributes: { 'class': 'bck-title4'} },
-				{ name: 'Título wendy', element: 'h4', attributes: { 'class': 'bck-title5'} },
-				{ name: 'Título CLIL', element: 'h4', attributes: { 'class': 'bck-title6'} },
-				{ name: 'Título Cool', element: 'h4', attributes: { 'class': 'bck-title7'} },
-				{ name: 'Título Project', element: 'h4', attributes: { 'class': 'bck-title8'} },
+				{ name: 'Título principal', element: 'h4', attributes: { 'class': 'bck-title1'} },
+				{ name: 'Título Explore', element: 'h4', attributes: { 'class': 'bck-title2'} },
+
 
 				{ name: 'Fondo Marrón', element: 'span', attributes: { 'class': 'bck-fondo1' }},
 
