@@ -1038,9 +1038,13 @@ body,
 	margin-left: 10px;
 }
 
+.slide_main,
+.cke_inner {
+	padding: 0 50px !important;
+}
 
-
-.final .slide_main, .cke_inner {
+.final .slide_main,
+.cke_inner {
 	margin-top: -20px;
     border-top: 0px;
     border: 50px solid #FFC20E;
