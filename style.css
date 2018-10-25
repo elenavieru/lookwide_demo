@@ -21,6 +21,10 @@
 
 /* General Styles */
 
+.revision-budget {
+    left: 35px;
+ }
+
 #actividad .class_slide{
    padding-left: 25px;
 }
