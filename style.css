@@ -21,6 +21,10 @@
 
 /* General Styles */
 
+#actividad .class_slide{
+   padding-left: 45px;
+}
+
 body,
 .texto_curso,
 #actividad .pregunta .texto_curso {
