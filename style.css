@@ -21,8 +21,13 @@
 
 /* General Styles */
 
+.rf-wordcontainer li{
+    font-family: 'HarmoniaSansW1G-Bold';
+
+}
+
 .rf-tgrid{
-    font-family: 'HarmoniaSansW1G-Regular';
+    font-family: 'HarmoniaSansW1G-Bold';
 }
 
 .texto_curso p:last-of-type{
