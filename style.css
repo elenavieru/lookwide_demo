@@ -21,6 +21,15 @@
 
 /* General Styles */
 
+.rf-tgrid{
+    font-family: 'HarmoniaSansW1G-Regular';
+}
+
+.texto_curso p:last-of-type{
+    padding: 15px;
+
+}
+
 .revision-budget {
     left: 35px;
  }
