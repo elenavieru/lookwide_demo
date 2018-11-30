@@ -1,17 +1,17 @@
 /* Fonts */
 @font-face {
-	font-family: 'andy_regular';
-	src: url(fonts/AndyStd-Regular.otf) format("opentype");
+	font-family: 'HarmoniaSansW1G-Bold';
+	src: url(fuentes/HarmoniaSansW1G-Bold.otf) format("opentype");
 }
 
 @font-face {
-	font-family: 'andy_bold';
-	src: url(fonts/AndyStd-Bold.otf) format("opentype");
+	font-family: 'HarmoniaSansW1G-Regular';
+	src: url(fuentes/HarmoniaSansW1G-Regular.otf) format("opentype");
 }
 
 @font-face {
-	font-family: 'andy_italic';
-	src: url(fonts/AndyStd-Italic.otf) format("opentype");
+	font-family: 'HarmoniaSansW1G-SemiBdItal';
+	src: url(fuentes/HarmoniaSansW1G-SemiBdItal.otf) format("opentype");
 }
 
 @font-face {
