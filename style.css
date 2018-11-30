@@ -1789,26 +1789,26 @@ display: inline-block;
     -moz-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -moz-box-shadow ease-in-out .15s;
     transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
     transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s, -moz-box-shadow ease-in-out .15s;
-    font-family: 'andy_bold';
+    font-family: 'HarmoniaSansW1G-Regular';
     font-size: 2.2rem;
     font-weight: 600;
 }
 
 .slide_main input.respuesta_ko {
     border-color: #ef0c24;
-    font-family: 'andy_bold';
+    font-family: 'HarmoniaSansW1G-Regular';
     font-size: 2.2rem;
     font-weight: 600;
 }
 
 .texto_curso li input {
-    font-family: 'andy_bold';
+    font-family: 'HarmoniaSansW1G-Regular';
     font-size: 2.2rem;
     font-weight: 600;
 }
 
 #actividad textarea {
-    font-family: 'andy_bold';
+    font-family: 'HarmoniaSansW1G-Regular';
     font-size: 2.2rem;
     font-weight: 600;
 }
@@ -1816,7 +1816,7 @@ display: inline-block;
 .slide_main input.respuesta_ok {
     border-color: #74d320;
     background-color: #e9fed6;
-    font-family: 'andy_bold';
+    font-family: 'HarmoniaSansW1G-Regular';
     font-size: 2.2rem;
     font-weight: 600;
 }
