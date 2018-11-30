@@ -1422,6 +1422,7 @@ body,
     font-family: 'HarmoniaSansW1G-Bold';
     font-weight: 500;
     font-size: 1.6rem;
+    top: 9px;
 }
 
 .texto_curso ul.bck-ul1 li:before,
