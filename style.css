@@ -1411,18 +1411,16 @@ body,
     font-size: 1.9rem;
 }
 
-.texto_curso ol.bck-ol2 li:before,
-.workspace ul li ol.bck-ol2 li:before,
-.cke_contents ol.bck-ol2 li:before {
+.texto_curso ol.bck-ol2 li:before, .workspace ul li ol.bck-ol2 li:before, .cke_contents ol.bck-ol2 li:before {
     content: counter(bck-li-counter);
-    left: 0;
-    width: 25px;
+    left: 10px;
+    width: auto;
     text-align: right;
     color: #333;
     font-family: 'HarmoniaSansW1G-Regular';
     font-weight: 500;
     font-size: 1.6rem;
-    top: 9px;
+    top: auto
 }
 
 .texto_curso ul.bck-ul1 li:before,
