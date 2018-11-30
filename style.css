@@ -33,6 +33,7 @@ body,
 .texto_curso,
 #actividad .pregunta .texto_curso {
 	font-size: 1.8rem;
+	font-family: 'HarmoniaSansW1G-Regular';
 }
 
 #swipeview-slider > div > .item {
