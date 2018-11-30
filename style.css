@@ -1569,15 +1569,19 @@ table.bck-table.bck-table-colores td {
 
 
 .box-4 {
-	background: #D9EFFD;
-	padding: 15px;
+    background: transparent;
+    padding: 16px;
+    border-bottom: 2px solid #3FC0F0;
+    border-left: 2px solid #3FC0F0;
+    border-top: 2px solid #3FC0F0;
+    border-right: 100px solid #3FC0F0;
 }
 
 .box-4:before{
 	content: " ";
-    left: 92%;
+    left: 102%;
     position: absolute;
-    background: url(imagenes/icono_caja4.png);
+    background: url(imagenes/out.png);
     padding: 40px;
     background-size: contain;
     background-repeat: no-repeat;
