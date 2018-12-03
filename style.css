@@ -1167,10 +1167,10 @@ body,
 .logo-publisher {
 	display: inline-block;
 	position: absolute;
-	top: 0;
+	top: 3px;
 	left: 0;
 	width: 100px;
-	height: 44px;
+	height: 50px;
 	background: url(imagenes/Pearson-logo-2016-219x286.png) 0 0 no-repeat;
 	-webkit-background-size: contain;
 	   -moz-background-size: contain;
