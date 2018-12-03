@@ -19,6 +19,24 @@
 	src: url(fonts/AndyStd-BoldItalic.otf) format("opentype");
 }
 
+
+/*toc*/
+
+#indice .units ul li {
+    border-radius: 0;
+}
+
+#indice .units ul li.active:not(.disabled), body:not(.isTablet) #indice .units ul li:hover:not(.disabled), #indice .units ul li:focus:not(.disabled) {
+    background: #aaa;
+    border-radius: 0;
+}
+
+.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus {
+    background-color: #aaa;
+    border-radius: 0;
+}
+
+
 /* General Styles */
 
 .rf-wordcontainer li{
