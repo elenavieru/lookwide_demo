@@ -1185,7 +1185,7 @@ body,
 .logo-publisher {
 	display: inline-block;
 	position: absolute;
-	top: 3px;
+	top: -3px;
 	left: 0;
 	width: 100px;
 	height: 50px;
